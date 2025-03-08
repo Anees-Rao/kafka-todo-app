@@ -1,0 +1,17 @@
+{
+  "name": "todolist-service",
+  "version": "1.0.0",
+  "description": "TodoList service with Kafka integration",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "kafkajs": "^2.2.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+} 
