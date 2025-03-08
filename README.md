@@ -259,6 +259,7 @@ Expected response:
   "message": "Marked 3 notifications as read"
 }
 ```
+`Postman Collection` - https://documenter.getpostman.com/view/25896075/2sAYdoEnUU
 
 ## Error Handling
 
@@ -367,16 +368,13 @@ Potential improvements include:
                                      └─────────────────┘
 ```
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contributors
 
-- Your Name - Initial work
+- Anees Ur Rehman - Initial work
 
 ## Acknowledgments
 
 - Kafka documentation
 - Express.js community
 - SQLite documentation
+
